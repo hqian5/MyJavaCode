@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_Stock_Viewer.iml" filepath="$PROJECT_DIR$/Java_Stock_Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJavaProjects.iml" filepath="$PROJECT_DIR$/MyJavaProjects.iml" />
     </modules>
   </component>
 </project>

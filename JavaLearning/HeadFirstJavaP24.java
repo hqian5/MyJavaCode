@@ -1,9 +1,9 @@
-package stockViewer;
+package stockViewer.JavaLearning;
 
 /**
  * Created By HaoQian on 2021/9/8
  */
-public class JavaLearn1 {
+public class HeadFirstJavaP24 {
     public static void main(String[] args) {
         int x = 0;
         while (x < 4) {
