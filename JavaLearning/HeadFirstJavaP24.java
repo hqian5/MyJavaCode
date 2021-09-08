@@ -25,5 +25,6 @@ public class HeadFirstJavaP24 {
             System.out.println();
             x = x + 1;
         }
+        System.out.print("test");
     }
 }
